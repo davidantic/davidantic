@@ -1,6 +1,8 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)](https://www.linkedin.com/in/davidantic)
-<h1 align="center">Hi 👋, I'm David Antic</h1>
-<h3 align="center">Web Developer</h3>
+</br>
+<h2 align="center">Hello 👋, I'm David Antic and I work on the tech</h2>
+</br>
+</br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidantic&label=Profile%20views&color=0e75b6&style=flat" alt="davidantic" /> </p>
 
