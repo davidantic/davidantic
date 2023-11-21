@@ -1,5 +1,3 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)](https://www.linkedin.com/in/davidantic)
-</br>
 <h2 align="center">Hello 👋, I'm David Antic and I work on the tech</h2>
 </br>
 </br>
