@@ -1,4 +1,4 @@
-<h2 align="center">Hello 👋, I'm David Antic and I work on the tech</h2>
+<h2 align="center">Hello 👋, I'm David Antic and I work in tech</h2>
 </br>
 </br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
